@@ -14,7 +14,7 @@ Conv1: Input: 1 channel, Output: 8 channels, Kernel: 3x3, Padding: 1.
 Conv2: Input: 8 channels, Output: 24 channels, Kernel: 3x3, Padding: 1.  
 Conv3: Input: 24 channels, Output: 48 channels, Kernel: 3x3, Padding: 1.  
 
-##Pooling:
+## Pooling:
 
 Each convolutional layer is followed by a 2x2 max pooling operation with a stride of 2.  
 
